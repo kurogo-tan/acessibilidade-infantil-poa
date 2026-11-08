@@ -1,0 +1,9 @@
+<svg width="330" height="72" viewBox="0 0 330 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="72" height="72" rx="22" fill="#EFF6FF"/>
+  <path d="M36 55.5C29.7 49.7 18.5 42.4 18.5 31.5C18.5 25.2 23.4 20.5 29.1 20.5C32.4 20.5 35.1 22.1 36 24.8C36.9 22.1 39.6 20.5 42.9 20.5C48.6 20.5 53.5 25.2 53.5 31.5C53.5 42.4 42.3 49.7 36 55.5Z" fill="#2563EB"/>
+  <circle cx="36" cy="34" r="7.5" fill="#FACC15"/>
+  <path d="M25 54.5C28.2 51.2 32 49.5 36 49.5C40 49.5 43.8 51.2 47 54.5" stroke="#0D9488" stroke-width="4" stroke-linecap="round"/>
+  <path d="M49.5 13.5C49.5 10.7 51.7 8.5 54.5 8.5C57.3 8.5 59.5 10.7 59.5 13.5C59.5 17.2 54.5 21.5 54.5 21.5C54.5 21.5 49.5 17.2 49.5 13.5Z" fill="#0D9488"/>
+  <text x="88" y="34" fill="#1E293B" font-family="Arial, sans-serif" font-size="21" font-weight="700">Guia Infância</text>
+  <text x="88" y="55" fill="#2563EB" font-family="Arial, sans-serif" font-size="17" font-weight="700">Acessível</text>
+</svg>
