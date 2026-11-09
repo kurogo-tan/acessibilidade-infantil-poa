@@ -40,6 +40,15 @@ O projeto usa HTML semântico, hierarquia de títulos, links descritivos, estado
 
 1. Suba o repositório para o GitHub com o nome `guia-infancia-acessivel`.
 2. Importe o repositório na Vercel.
-3. Use `npm run build` como comando de build. O diretório de saída é `out/` por causa do export estático.
+3. A configuração em `vercel.json` já define `npm run build` e o diretório de saída `out/`.
+
+Também é possível publicar pela CLI da Vercel:
+
+```bash
+npx vercel
+npx vercel --prod
+```
+
+O projeto usa exportação estática; não é necessário configurar funções serverless ou variáveis de ambiente.
 
 O site não usa backend, banco de dados, autenticação, APIs externas, geolocalização ou Google Maps SDK. Os botões de mapa usam apenas URLs de busca do Google Maps.
