@@ -40,7 +40,7 @@ O projeto usa HTML semântico, hierarquia de títulos, links descritivos, estado
 
 1. Suba o repositório para o GitHub com o nome `guia-infancia-acessivel`.
 2. Importe o repositório na Vercel.
-3. A configuração em `vercel.json` já define `npm run build` e o diretório de saída `out/`.
+3. A configuração em `vercel.json` já define `npm run build`. Como o projeto usa o framework Next.js com export estático, deixe o campo “Output Directory” vazio na Vercel para que a plataforma faça a detecção nativa.
 
 Também é possível publicar pela CLI da Vercel:
 
